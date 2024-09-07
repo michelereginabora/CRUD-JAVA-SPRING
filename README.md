@@ -16,12 +16,12 @@ Este projeto é uma aplicação Spring Boot que implementa operações CRUD (Cre
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/person-crud-project.git
+   git clone https://github.com/seu-usuario/crud-java-spring.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```
-   cd person-crud-project
+   cd crud-java-spring
    ```
 
 3. Compile o projeto:
@@ -78,6 +78,7 @@ http://localhost:8080/swagger-ui.html
 
 - JDK 21
 - Maven 3.6+
+- Postrgresql
 
 ### Compilação
 
