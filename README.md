@@ -11,6 +11,7 @@ Este projeto é uma aplicação Spring Boot que implementa operações CRUD (Cre
 - Lombok
 - Swagger (SpringDoc OpenAPI)
 - Maven
+- PostgreSQL
 
 ## Configuração do Projeto
 
@@ -78,7 +79,6 @@ http://localhost:8080/swagger-ui.html
 
 - JDK 21
 - Maven 3.6+
-- Postrgresql
 
 ### Compilação
 
